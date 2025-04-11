@@ -1,10 +1,8 @@
 # Hi! 👋  
 
-**Android Developer** | **Backend Engineer**
-
 💡 **About me**  
 
-Android & backend developer focused on scalable systems and clean architecture.
+Software developer focused on scalable systems and clean architecture.
 Passionate about building high-performance and well-designed applications.
 
 🚀 **Current project**  
@@ -13,9 +11,8 @@ Passionate about building high-performance and well-designed applications.
 
 📚 **Focus Areas**  
 
-- **Golang**: High-load backend systems & microservices development
-- **C**: Memory management and hardware interaction  
-- **Android**: Kotlin Multiplatform Mobile & Jetpack Compose
+- **Golang**: High-load backend systems & network protocols
+- **C**: Hardware interaction
   
 🛠 **Tech stack**  
 
@@ -29,3 +26,5 @@ Passionate about building high-performance and well-designed applications.
 ✉️ **Contacts**  
 
 [![Email](https://img.shields.io/badge/Email-azure.rubykey@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:azure.rubykey@gmail.com)
+
+![image](/image.png)
