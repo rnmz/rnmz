@@ -2,7 +2,7 @@
 
 💡 **About me**  
 
-Software developer focused on scalable systems and clean architecture.
+Software engineer focused on scalable systems and clean architecture.
 Passionate about building high-performance and well-designed applications.
 
 🚀 **Current project**  
@@ -11,8 +11,8 @@ Passionate about building high-performance and well-designed applications.
 
 📚 **Focus Areas**  
 
-- **Golang**: High-load backend systems & network protocols
-- **C**: Hardware interaction
+- **Golang**: High-load backend systems & network protocols.
+- **C**: Hardware interaction & network protocols.
   
 🛠 **Tech stack**  
 
