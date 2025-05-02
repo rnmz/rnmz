@@ -26,5 +26,3 @@ Passionate about building high-performance and well-designed applications.
 ✉️ **Contacts**  
 
 [![Email](https://img.shields.io/badge/Email-azure.rubykey@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:azure.rubykey@gmail.com)
-
-![image](/image.png)
